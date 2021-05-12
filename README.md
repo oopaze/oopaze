@@ -45,5 +45,5 @@ A Python / **Django developer**, Pythonist and **lover of Machine Learning**, st
 </p>
 
 <p align="center" width="100%">
-    <img alt="GIF" src="https://github.com/oopaze/oopaze/blob/main/code.gif?raw=true"  width="1000px" height="auto" />
+    <img alt="GIF" src="https://github.com/oopaze/oopaze/blob/main/code.gif?raw=true"  width="800px" height="auto" />
 </p>
