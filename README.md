@@ -4,7 +4,7 @@
 A Python / Django developer, Pythonist and lover of Machine Learning, student of programation and IT, and proud to be from Ceará. <span>&#x1f1e7;&#x1f1f7;</span>
 
 - 🔭 I’m currently Graduating in **Information System** at **Ceará Federal Institute**.
-- ⚙️ Mastering: `Python`, `Django`, `HTML`, `CSS`.
+- ⚙️ Mastering: `Python`, `Django`, `HTML`, `CSS`, `JS`.
 - 🌱 I’m currently learning **React** and **React Native**.
 - 💬 I'm mostly active within the **Django**, **Flask** and **Fast API** communities.
 
