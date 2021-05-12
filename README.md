@@ -1,11 +1,13 @@
 # Hello, I'm José Pedro 👋
 
+
 A Python / Django developer, Pythonist and lover of Machine Learning, student of programation and IT, and proud to be from Ceará. <span>&#x1f1e7;&#x1f1f7;</span>
 
 - 🔭 I’m currently Graduating in **Information System** at **Ceará Federal Institute**.
 - ⚙️ Mastering: `Python`, `Django`, `HTML`, `CSS`.
 - 🌱 I’m currently learning **React** and **React Native**.
 - 💬 I'm mostly active within the **Django**, **Flask** and **Fast API** communities.
+
 
 ### 🔧 Technologies & Tools
 
@@ -41,4 +43,6 @@ A Python / Django developer, Pythonist and lover of Machine Learning, student of
   <a href="https://www.linkedin.com/in/oopaze/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-<img alt="GIF" src="https://github.com/oopaze/oopaze/blob/main/code.gif?raw=true" />
+<p align="center" width="100%">
+    <img alt="GIF" src="https://github.com/oopaze/oopaze/blob/main/code.gif?raw=true"  width="1000px" height="auto" />
+</p>
