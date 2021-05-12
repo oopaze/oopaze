@@ -28,9 +28,6 @@ A Python / Django developer, Pythonist and lover of Machine Learning, student of
         <img src="https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=6aa6f8"> 
     </span>
     <span> 
-        <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=6aa6f8"> 
-    </span>
-    <span> 
         <img src="https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=6aa6f8"> 
     </span>
     <span> 
