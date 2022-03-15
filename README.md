@@ -1,11 +1,12 @@
 # Hello, I'm José Pedro 👋
 
 
-A Python / **Django developer**, Pythonist and **lover of Machine Learning**, student of programation and IT, and **proud to be from Ceará**. <span>&#x1f1e7;&#x1f1f7;</span>
+Estudante de TI no **IFCE** com conhecimentos em **python** e **typescript** voltados ao desenvolvimento de WebSites e WebAPIs com `Django`, `Flask` e `FastAPI` e `React`. Comunicativo, autodidata e com sede de aprender.. <span>&#x1f1e7;&#x1f1f7;</span>
 
 - 🔭 I’m currently Graduating in **Information System** at **Ceará Federal Institute**.
 - ⚙️ Mastering: `Python`, `Django`, `HTML`, `CSS`, `JS`.
-- 🌱 I’m currently learning **React** and **React Native**.
+- ⚙️ Mastering: `React` and `Typescript`.
+- 🌱 Sometimes on `frontend`, sometimes on `backend`, sometimes what you need ❤️.
 - 💬 I'm mostly active within the **Django**, **Flask** and **Fast API** communities.
 
 
