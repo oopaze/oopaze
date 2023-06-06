@@ -1,13 +1,13 @@
 # Hello, I'm José Pedro 👋
 
 
-Estudante de TI no **IFCE** com conhecimentos em **python** e **typescript** voltados ao desenvolvimento de WebSites e WebAPIs com `Django`, `Flask` e `FastAPI` e `React`. Comunicativo, autodidata e com sede de aprender.. <span>&#x1f1e7;&#x1f1f7;</span>
+IT student on **IFCE** with knowledge in **python**, **typescript** and **ruby**, focused on build of web applications using `Rails (ruby)`, `Django (python)`, `Flask (python)`, `FastAPI (python)` and `React (javascript)`. Communicative, self-taught and eager to learn... <span>&#x1f1e7;&#x1f1f7;</span>
 
 - 🔭 I’m currently Graduating in **Information System** at **Ceará Federal Institute**.
-- ⚙️ Mastering: `Python`, `Django`, `HTML`, `CSS`, `JS`.
-- ⚙️ Mastering: `React` and `Typescript`.
-- 🌱 Sometimes on `frontend`, sometimes on `backend`, sometimes what you need ❤️.
-- 💬 I'm mostly active within the **Django**, **Flask** and **Fast API** communities.
+- ⚙️ Mastering backend techs: `Ruby On Rails`, `Django`, `Flask` and `Fast API`.
+- ⚙️ Mastering frontend techs: `React`, `Typescript`, `HTML`, `CSS` and `JS`.
+- 🌱 Sometimes as a `frontend`, sometimes as a `backend`, sometimes what you need! ❤️
+- 💬 I'm mostly active within **Python** communities.
 
 
 ### 🔧 Technologies & Tools
